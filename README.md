@@ -13,4 +13,4 @@ Shoot me a message and get in touch with me.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu98/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/dmahajan980)
 [![Telegram](https://raster.shields.io/badge/Telegram-gray.svg?style=for-the-badge&logo=telegram)](https://t.me/dmahajan980)
-[![Instagram](https://img.shields.io/badge/Instagram-violet.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/dmahajan980/)
+[![Instagram](https://img.shields.io/badge/Instagram-violet.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/_divyanshu_98/)
