@@ -5,6 +5,12 @@ Hey there! 👋 I’m Divyanshu Mahajan, a student developer with a background i
 - 🔭 I’m currently working as a **GSoC '20 Student Developer** on the [Gamepad Navigator](https://github.com/fluid-lab/gamepad-navigator).
 - 🌱 I’m currently learning [Infusion.js](https://fluidproject.org/infusion.html).
 - 💬 Ask me about web development and open source.
-- 📫 Get in touch with me at [Twitter](https://twitter.com/dmahajan980) | [Telegram](https://t.me/dmahajan980) | [E-mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=divyanshumahajan98@gmail.com&su)
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: Yet to figure that out!
+
+Shoot me a message and get in touch with me.
+
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu98/) -->
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/dmahajan980)
+[![Telegram](https://raster.shields.io/badge/Telegram-gray.svg?style=for-the-badge&logo=telegram)](https://t.me/dmahajan980)
+[![Instagram](https://img.shields.io/badge/Instagram-violet.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/dmahajan980/)
