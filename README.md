@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/uiLF1K8.png" />
 
 Hey there! 👋 I’m Divyanshu Mahajan, a student developer with a background in Economics and Electronics and has keen interest in
-web and mobile technologies using the JavaScript ecosystem. I have a curiosity of learning new technologies and frameworks and I
-love to contribute to open-source projects. I believe in creating software that is accessible and user-friendly.
+web and mobile technologies using the JavaScript ecosystem. I have a curiosity of learning something new and I love to contribute
+to open-source projects. I believe in creating software that is accessible and user-friendly.
 
 - 🔭 I’m currently working as a **GSoC '20 Student Developer** on the
   [Gamepad Navigator](https://github.com/fluid-lab/gamepad-navigator).
