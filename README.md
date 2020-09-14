@@ -6,7 +6,7 @@ to open-source projects. I believe in creating software that is accessible and u
 
 - 🔭 I’m currently working as a **GSoC '20 Student Developer** on the
   [Gamepad Navigator](https://github.com/fluid-lab/gamepad-navigator).
-- 🌱 I’m currently learning [Infusion.js](https://fluidproject.org/infusion.html).
+- 🌱 I’m currently learning React.
 - 💬 Ask me about JavaScript, web development, and open source.
 - 📝 I write articles on [Medium](https://medium.com/@divyanshumahajan).
 - 😄 Pronouns: He / him
