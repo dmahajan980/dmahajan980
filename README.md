@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/uiLF1K8.png" />
 
-Hey there! 👋 I’m Divyanshu Mahajan, a student developer with a background in Economics and Electronics and has keen interest in
+Hey there! 👋 I’m Divyanshu Mahajan, a student developer with a background in Economics and Electronics and have a keen interest in
 web and mobile technologies using the JavaScript ecosystem. I have a curiosity of learning something new and I love to contribute
 to open-source projects. I believe in creating software that is accessible and user-friendly.
 
