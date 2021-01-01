@@ -10,7 +10,7 @@ to open source projects. I believe in creating software that is accessible and u
 - 📝 I write articles on [Medium](https://medium.com/@divyanshumahajan).
 - 😄 Pronouns: He / him
 
-Shoot me a message and get in touch with me.
+Hit me up and let's build something amazing together! 🚀
 
 <p align="center">
   <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px" height="35px" />
