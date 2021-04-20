@@ -5,7 +5,7 @@ web technologies using the JavaScript ecosystem. I have a curiosity of learning 
 open source projects. I believe in creating software that is accessible and user-friendly.
 
 - 🔭 I’m looking for **Summer 2021 Internship Opportunities**.
-- 🌱 I’m currently learning React, TypeScript, and ThreeJS.
+- 🌱 I’m currently learning TypeScript and ThreeJS.
 - 💬 Ask me about JavaScript, web development, and open source.
 - 📝 I write articles on [Medium](https://medium.com/@divyanshumahajan).
 - 😄 Pronouns: He / him
