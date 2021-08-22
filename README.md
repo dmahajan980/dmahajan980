@@ -1,16 +1,15 @@
 <img src="https://i.imgur.com/uiLF1K8.png" />
 
-Hey there! 👋 I’m Divyanshu Mahajan, a student with a background in Economics and Electronics and have a keen interest in
-web technologies using the JavaScript ecosystem. I have a curiosity of learning something new and I love to contribute to
-open source projects. I believe in creating software that is accessible and user-friendly.
+Hey there 👋  
+I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. I am a **Sortware Developer**
+with a strong interest in JavaScript, React, React Native, and Flutter. I love building products that:
 
-- 🔭 I’m looking for **Summer 2021 Internship Opportunities**.
-- 🌱 I’m currently learning TypeScript and ThreeJS.
-- 💬 Ask me about JavaScript, web development, and open source.
-- 📝 I write articles on [Medium](https://medium.com/@divyanshumahajan).
-- 😄 Pronouns: He / him
+- Deliver an amazing user experience.
+- Comfort the users by providing a friendly and eye-pleasing user interface.
+- Scale well while being performant.
+- Care about accessibility and inclusiveness.
 
-Hit me up and let's build something amazing together! 🚀
+---
 
 <p align="center">
   <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px" />
@@ -76,3 +75,21 @@ Hit me up and let's build something amazing together! 🚀
   <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="35px" height="35px" />
   &nbsp;
 </p>
+
+
+## Present Day
+
+- 🔭 Seeking **Summer 2022 Internship Opportunities**.
+- 💼 Working with [**Schmooze**](https://www.schmoozedating.com/) as one of the founding engineers.
+- 🌱 Learning ThreeJS and exploring TypeScript.
+- 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan).
+
+## Let's Connect
+
+Feel free to reach out for any exciting projects, internship opportunities or anything else you'd want to chat about.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu98/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=divyanshumahajan98@gmail.com&su)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dmahajan980)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/394107574062022657)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->
