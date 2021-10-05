@@ -79,7 +79,7 @@ with a strong interest in JavaScript, React, React Native, and Flutter. I love b
 
 ## Present Day
 
-- 🔭 Seeking **Summer 2022 Internship Opportunities**.
+- 🔭 Seeking **Part-time/Freelance Opportunities**.
 - 💼 Working with [**Schmooze**](https://www.schmoozedating.com/) as one of the founding engineers.
 - 🌱 Learning ThreeJS and exploring TypeScript.
 - 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan).
