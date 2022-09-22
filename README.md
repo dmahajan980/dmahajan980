@@ -5,7 +5,7 @@ I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. 
 with a strong interest in JavaScript, React, React Native, and Flutter. I love building products that:
 
 - Deliver an amazing user experience.
-- Comfort the users by providing a friendly and eye-pleasing user interface.
+- Provide comfort to users through a friendly and eye-pleasing interface.
 - Scale well while being performant.
 - Care about accessibility and inclusiveness.
 
@@ -79,9 +79,8 @@ with a strong interest in JavaScript, React, React Native, and Flutter. I love b
 
 ## Present Day
 
-- 🔭 Seeking **Part-time/Freelance Opportunities**.
-- 💼 Working with [**Schmooze**](https://www.schmoozedating.com/) as one of the founding engineers.
-- 🌱 Learning ThreeJS and exploring TypeScript.
+- 🔭 Seeking **Full-time Opportunities**
+- 💼 Working with [**Schmooze**](https://www.schmoozedating.com/) as a Front-end Engineer (React, React Native, Flutter).
 - 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan).
 
 ## Let's Connect
