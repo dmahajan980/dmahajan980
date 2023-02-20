@@ -4,8 +4,7 @@ Hey there 👋
 I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. I am a **Sortware Developer**
 with a strong interest in JavaScript, React, React Native, and Flutter. I love building products that:
 
-- Deliver an amazing user experience.
-- Provide comfort to users through a friendly and eye-pleasing interface.
+- Deliver an amazing user interface and friendly user experience.
 - Scale well while being performant.
 - Care about accessibility and inclusiveness.
 
