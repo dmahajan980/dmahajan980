@@ -11,13 +11,15 @@ with a strong interest in Next.js, React Native, React, and TypeScript. I love b
 ---
 
 <p align="center">
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px" />
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="Next.js" width="35px" height="35px" />
   &nbsp;
   <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" width="35px" height="35px" />
   &nbsp;
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="React / React Native" width="35px" height="35px" />
+  &nbsp;
   <img src="https://github.com/get-icon/geticon/blob/master/icons/es6.svg" alt="ECMAScript 6" width="35px" height="35px" />
   &nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="React / React Native" width="35px" height="35px" />
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px" />
   &nbsp;
   <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="Node.js" width="35px" height="35px" />
   &nbsp;
@@ -89,5 +91,5 @@ Feel free to reach out for any exciting projects, internship opportunities or an
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu98/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=divyanshumahajan98@gmail.com&su)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dmahajan980)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/394107574062022657)
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/394107574062022657) -->
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->
