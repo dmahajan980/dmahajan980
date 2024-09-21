@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/uiLF1K8.png" />
 
 Hey there 👋  
-I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. I am a **Sortware Developer**
-with a strong interest in JavaScript, React, React Native, and Flutter. I love building products that:
+I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. I am a **Software Engineer**
+with a strong interest in Next.js, React Native, React, and TypeScript. I love building products that:
 
 - Deliver an amazing user interface and friendly user experience.
 - Scale well while being performant.
@@ -78,8 +78,8 @@ with a strong interest in JavaScript, React, React Native, and Flutter. I love b
 
 ## Present Day
 
-- 🔭 Seeking **Full-time Opportunities**
-- 💼 Working with [**Schmooze**](https://www.schmoozedating.com/) as a Front-end Engineer (React, React Native, Flutter).
+- 💼 Working with [**Microsoft**](https://www.microsoft.com/) as a Full-stack Software Engineer (React, TypeScript, .NET).
+- 🔭 Seeking **International Opportunities (Remote / Hybrid / On-site)**
 - 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan).
 
 ## Let's Connect
