@@ -80,9 +80,9 @@ with a strong interest in Next.js, React Native, React, and TypeScript. I love b
 
 ## Present Day
 
-- 💼 Working with [**Microsoft**](https://www.microsoft.com/) as a Full-stack Software Engineer (React, TypeScript, .NET).
+- 💼 Working with [**Microsoft**](https://www.microsoft.com/) as a Full-stack Software Engineer (React, TypeScript, .NET)
 - 🔭 Seeking **International Opportunities (Remote / Hybrid / On-site)**
-- 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan).
+- 📝 Writes articles on [**Medium**](https://medium.com/@divyanshumahajan)
 
 ## Let's Connect
 
