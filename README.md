@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/uiLF1K8.png" />
 
 Hey there 👋  
-I’m Divyanshu Mahajan, an Electronics and Economics undergrad at BITS Pilani. I am a **Software Engineer**
-with a strong interest in Next.js, React Native, React, and TypeScript. I love building products that:
+I’m Divyanshu Mahajan, a **Software Engineer** with a strong interest in Next.js, React Native, React, and TypeScript.
+I love building products that:
 
 - Deliver an amazing user interface and friendly user experience.
 - Scale well while being performant.
@@ -90,6 +90,5 @@ Feel free to reach out for any exciting projects, internship opportunities or an
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu98/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=divyanshumahajan98@gmail.com&su)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dmahajan980)
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/394107574062022657) -->
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->
